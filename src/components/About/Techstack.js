@@ -4,20 +4,12 @@ import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
   DiGit,
-  DiJava,
   DiNpm,
   DiResponsive
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
   SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
   SiRedux,
   SiWebpack,
   SiPlaywright,
